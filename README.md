@@ -8,6 +8,21 @@
 
 [Lab-5] (https://github.com/pusapallynaveen/Aiml-lab/blob/main/Lab05.ipynb)
 
+[Lab-6] (https://github.com/pusapallynaveen/Aiml-lab/blob/main/LAB06.ipyn)
+
+[Lab-7] (https://github.com/pusapallynaveen/Aiml-lab/blob/main/Lab_07.ipynb)
+
+[Lab-8] (https://github.com/pusapallynaveen/Aiml-lab/blob/main/Lab_08.ipynb)
+
+[Lab-9] (https://github.com/pusapallynaveen/Aiml-lab/blob/main/Lab_09.ipynb)
+
+[Lab-10] (https://github.com/pusapallynaveen/Aiml-lab/blob/main/Lab_10.ipynb)
+
+
+
+
+
+
 
 
 
