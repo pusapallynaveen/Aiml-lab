@@ -6,6 +6,12 @@
 
 [Lab-4] (https://github.com/pusapallynaveen/Aiml-lab/blob/main/Lab04.ipynb)
 
+[Lab-5] (https://github.com/pusapallynaveen/Aiml-lab/blob/main/Lab05.ipynb)
+
+
+
+
+
 
 
 
